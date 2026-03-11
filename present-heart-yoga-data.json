@@ -1,0 +1,255 @@
+{
+  "business_name": "Present Heart Yoga",
+  "tagline": "Calm Your Mind, Strengthen Your Body",
+  "location": "UK",
+  "address": "",
+  "phone": "Contact us",
+  "email": "hello@presentheartyoga.com",
+  "website_url": "https://presentheartyoga.com",
+  "about_text": "Present Heart Yoga offers classes, retreats and workshops to strengthen, open and deeply relax the body and mind to help navigate the complexities of life. We offer a range of experiences to reclaim energy, bring balance, find connection, flow and calm.",
+  "about_text_2": "Discover tranquility and strength where expert instructors guide you through holistic practices to enhance flexibility, balance, and inner peace. Join us for transformative wellness.",
+  "primary_color": "#9C6FB9",
+  "secondary_color": "#2D1B3D",
+  "accent_color": "#B8D4C8",
+  "hero_image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1920&q=80",
+  "about_image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=800&q=80",
+  "facilities_image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=800&q=80",
+  "est_year": "2020",
+  "member_count": "500+",
+  "rating_value": "4.9",
+  "review_count": "127",
+  "hours": "Mon-Fri: 6:00am - 9:00pm | Sat-Sun: 8:00am - 6:00pm",
+  "schema_hours": "Mo-Fr 06:00-21:00, Sa-Su 08:00-18:00",
+  "promo_text": "🧘‍♀️ Start your journey — First class FREE",
+  "promo_cta_text": "Book Free Class",
+  "promo_cta_url": "#free-trial",
+  "meta_description": "Present Heart Yoga — Classes, retreats and workshops to strengthen, open and deeply relax the body and mind. Find balance, connection, flow and calm.",
+  "meta_keywords": "yoga classes, yoga retreats, yoga workshops, meditation, mindfulness, wellness, balance, flexibility",
+  "tiers": [
+    {
+      "name": "Drop-In",
+      "price": "15",
+      "period": "/class",
+      "features": [
+        "Single class access",
+        "All yoga styles",
+        "Mat & props provided",
+        "No commitment",
+        "First class FREE"
+      ],
+      "cta": "Book Single Class"
+    },
+    {
+      "name": "Monthly",
+      "price": "89",
+      "period": "/month",
+      "features": [
+        "Unlimited classes",
+        "All yoga styles",
+        "Workshop discounts",
+        "Priority booking",
+        "Online class library"
+      ],
+      "cta": "Most Popular",
+      "badge": "BEST VALUE"
+    },
+    {
+      "name": "Retreat Pass",
+      "price": "299",
+      "period": "/retreat",
+      "features": [
+        "Weekend retreat access",
+        "Accommodation included",
+        "All meals",
+        "Private sessions",
+        "Nature immersion"
+      ],
+      "cta": "Book Retreat"
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Main Studio",
+      "desc": "Peaceful space with natural light, heated floors, and premium mats.",
+      "icon": "🧘",
+      "image": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80"
+    },
+    {
+      "name": "Meditation Room",
+      "desc": "Quiet sanctuary for mindfulness practice and deep relaxation.",
+      "icon": "🕉️",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80"
+    },
+    {
+      "name": "Wellness Library",
+      "desc": "Curated collection of books, journals, and healing resources.",
+      "icon": "📚",
+      "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&q=80"
+    },
+    {
+      "name": "Garden Terrace",
+      "desc": "Outdoor practice space surrounded by nature and tranquility.",
+      "icon": "🌿",
+      "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=600&q=80"
+    }
+  ],
+  "classes": [
+    {
+      "name": "Vinyasa Flow",
+      "time": "Mon/Wed/Fri 7:00am",
+      "duration": "60 min",
+      "intensity": "Medium",
+      "desc": "Dynamic flowing sequences linking breath with movement."
+    },
+    {
+      "name": "Hatha Basics",
+      "time": "Tue/Thu 9:30am",
+      "duration": "75 min",
+      "intensity": "Low-Medium",
+      "desc": "Foundation practice focusing on alignment and breathing techniques."
+    },
+    {
+      "name": "Yin Yoga",
+      "time": "Mon/Wed 6:00pm",
+      "duration": "60 min",
+      "intensity": "Low",
+      "desc": "Slow-paced practice with longer holds for deep release and restoration."
+    },
+    {
+      "name": "Power Yoga",
+      "time": "Tue/Thu/Sat 6:30am",
+      "duration": "60 min",
+      "intensity": "High",
+      "desc": "Vigorous flow building strength, flexibility, and endurance."
+    },
+    {
+      "name": "Restorative",
+      "time": "Friday 7:00pm",
+      "duration": "90 min",
+      "intensity": "Low",
+      "desc": "Deeply relaxing practice using props to support complete rest."
+    },
+    {
+      "name": "Meditation",
+      "time": "Daily 8:00am",
+      "duration": "30 min",
+      "intensity": "Low",
+      "desc": "Guided mindfulness meditation to cultivate presence and calm."
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Emma Williams",
+      "role": "Founder & Lead Teacher",
+      "bio": "500-hour certified yoga teacher with 12 years of practice. Specializes in vinyasa flow and mindfulness meditation. Trained in India and Bali.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80"
+    },
+    {
+      "name": "Maya Patel",
+      "role": "Hatha & Yin Specialist",
+      "bio": "Certified yoga therapist and ayurvedic practitioner. Creates healing sequences for stress relief and deep relaxation. 8 years teaching experience.",
+      "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&q=80"
+    },
+    {
+      "name": "James Chen",
+      "role": "Power & Ashtanga Teacher",
+      "bio": "Former athlete turned yoga teacher. Brings dynamic energy and precision alignment to challenging flows. 200-hour certified, 6 years teaching.",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80"
+    },
+    {
+      "name": "Sarah Thompson",
+      "role": "Meditation & Breathwork Guide",
+      "bio": "Mindfulness meditation teacher and certified breathwork facilitator. Helps students find stillness and inner peace through ancient practices.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "Present Heart Yoga has transformed my life. The teachers are incredibly knowledgeable and caring, and the studio feels like a sanctuary. I've never felt more balanced and centered.",
+      "name": "Rachel M.",
+      "context": "Member for 2 years"
+    },
+    {
+      "text": "I was completely new to yoga and felt so welcomed. The beginner classes are perfect and the community is so supportive. My stress levels have completely changed since I started.",
+      "name": "David L.",
+      "context": "Member for 8 months"
+    },
+    {
+      "text": "The weekend retreat was life-changing. Beautiful location, amazing teachers, and the perfect balance of practice and relaxation. Already booked my next one!",
+      "name": "Sophie K.",
+      "context": "Retreat participant"
+    }
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600&q=80",
+    "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=600&q=80",
+    "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80",
+    "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=600&q=80",
+    "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+    "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=600&q=80",
+    "https://images.unsplash.com/photo-1447452001602-7090c7ab2db3?w=600&q=80",
+    "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80"
+  ],
+  "faq": [
+    {
+      "question": "Do I need to be flexible to start yoga?",
+      "answer": "Absolutely not! Yoga is for everyone regardless of flexibility. Our beginner classes focus on proper alignment and gradual progress. Flexibility is something you develop through practice, not a prerequisite."
+    },
+    {
+      "question": "What should I bring to my first class?",
+      "answer": "Just wear comfortable clothing that allows movement. We provide all mats, blocks, straps, and props. Bring water and arrive 10 minutes early for a studio tour."
+    },
+    {
+      "question": "What's included in the monthly membership?",
+      "answer": "Unlimited access to all in-studio classes, priority booking, discounts on workshops and retreats, plus access to our online class library. No joining fees or contracts."
+    },
+    {
+      "question": "Can I try a class before committing?",
+      "answer": "Yes! Your first class is completely FREE. It's the perfect way to experience our teaching style, meet the community, and see if it's right for you."
+    },
+    {
+      "question": "What's the difference between Vinyasa and Hatha?",
+      "answer": "Vinyasa is a flowing, dynamic style where poses are linked with breath. Hatha is slower-paced with longer holds, focusing on alignment and foundational postures. Both are wonderful — we recommend trying each!"
+    },
+    {
+      "question": "Do you offer private sessions?",
+      "answer": "Yes, all our teachers offer private and semi-private sessions. Perfect for personalized attention, specific goals, or working around injuries. Contact us to book."
+    }
+  ],
+  "why": [
+    {
+      "title": "Expert Teachers",
+      "desc": "Certified instructors with years of experience, trained in authentic traditions."
+    },
+    {
+      "title": "All Levels Welcome",
+      "desc": "From complete beginners to advanced practitioners — everyone finds their place."
+    },
+    {
+      "title": "Holistic Approach",
+      "desc": "Beyond physical practice — breathwork, meditation, and mindfulness integrated."
+    },
+    {
+      "title": "Beautiful Space",
+      "desc": "Peaceful studio designed to support your practice and inner journey."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Book Your Free Class",
+      "desc": "Choose a class time that works for you. No payment needed."
+    },
+    {
+      "title": "Arrive & Relax",
+      "desc": "Come 10 minutes early. We'll give you a tour and set you up with everything you need."
+    },
+    {
+      "title": "Experience & Choose",
+      "desc": "After your class, decide if you want to continue with drop-ins or a membership."
+    }
+  ],
+  "social_facebook": "https://facebook.com/presentheartyoga",
+  "social_instagram": "https://instagram.com/presentheartyoga",
+  "booking_url": "#free-trial",
+  "chat_widget_enabled": "true"
+}
